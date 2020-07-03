@@ -1,5 +1,5 @@
-This folder contains my notebooks:
-
+# This folder contains code:
 **Notebooks:
 - myFirstScript.ipynb
--- A demo of how to use Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LucasConnell/PGSS2020Lecture2/blob/master/MyNotebooks/myFirstScript.ipynb)
+
